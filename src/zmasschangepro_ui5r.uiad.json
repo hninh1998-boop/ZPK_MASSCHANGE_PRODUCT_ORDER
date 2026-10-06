@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Mass Change Production Order"
+  },
+  "ui5AppDetails": {
+    "appId": "zmasschangepro"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_284C62845B698DBFCAF55E2A44D5B2013149ED67_TM",
+    "semanticObject": "zmasschangepro",
+    "action": "manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_284C62845B698DBFCAF55E2A44D5B2013149ED67_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Mass Change Production Order"
+      }
+    }
+  ]
+}
